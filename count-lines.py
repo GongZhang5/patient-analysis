@@ -1,3 +1,6 @@
+""" comment
+"""
+
 import sys
 
 count=0
